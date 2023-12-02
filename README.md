@@ -1,4 +1,4 @@
-# Covid-19 
+# Covid-19 Project
 Data Exploration with SQL
 
 
